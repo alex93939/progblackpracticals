@@ -11,6 +11,16 @@
   class="fit-picture"
   src="/shared-assets/images/examples/grapefruit-slice.jpg"
   alt="this is an image" width = "100" height = "100" />
+<ul>
+  <li>Milk</li>
+  <li>
+    Cheese
+    <ul>
+      <li>Blue cheese</li>
+      <li>Feta</li>
+    </ul>
+  </li>
+</ul>
 
 </body>
 </html>
