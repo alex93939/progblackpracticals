@@ -10,7 +10,7 @@
 <img
   class="fit-picture"
   src="/shared-assets/images/examples/grapefruit-slice.jpg"
-  alt="fruit" />
+  alt="this is an image" width = "100" height = "100" />
 
 </body>
 </html>
